@@ -1,6 +1,6 @@
 # SA.XTB.CompareSecurityRoles
 
-An XrmToolBox plugin for comparing Dataverse security roles across two environments.
+An XrmToolBox plugin for comparing Dataverse security role privileges across two environments.
 
 ## Overview
 
