@@ -16,7 +16,7 @@ This tool helps you:
 
 ## Features
 
-- **Two-environment comparison** for security roles and privileges
+- **Two-environment comparison** for security role privileges
 - **Async data loading** so long-running operations do not freeze the UI
 - **Root business unit role filtering**
 - **Privilege parsing** into entity name and privilege action
